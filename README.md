@@ -1,13 +1,15 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Minh Tien</h1>
+<img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
+<h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
 </p>
 
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
+- ✍ I studied in: [Foreign Trade University](https://ftu.edu.vn/) (FTU).
+- ✍ I studied in: [Vietnam Summer School in Research - Alumni of Harvard, MIT organized](https://www.facebook.com/vssr.vn/) (VSSR).
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **PROJECT MANAGERMENT.**
 
 <br />
 
@@ -16,22 +18,16 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/phancongson" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/phancongson" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="mailto:sonpcbk@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -62,7 +58,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://scontent.fhan14-3.fna.fbcdn.net/v/t1.6435-9/59069604_2278340205545131_5656680041472327680_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=YZ5E1PUjGkgAX9-3g5B&_nc_ht=scontent.fhan14-3.fna&oh=00_AfBR2dYkcxNjyisxbsoVUXJ_J3hm-IX5nTBGZXNZrIgpbg&oe=63A1A947" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
