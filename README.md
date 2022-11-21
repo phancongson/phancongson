@@ -8,7 +8,7 @@
 - ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
 - ✍ I studied in: [Foreign Trade University](https://ftu.edu.vn/) (FTU).
 - ✍ I studied in: [Vietnam Summer School in Research - Alumni of Harvard, MIT organized](https://www.facebook.com/vssr.vn/) (VSSR).
-
+- ✍ Skill in: Familiar with ISO 14001, ISO 9001, ISO 50001, six sigma, 5S, PDCA, EIA, Pro3M, Waste managerment, Wastewater, member Audit Vendor of Samsung, RoHS, REACH, CA Prop 65, EPEAT, IEC:62321, working with Global Team
 - 🌱 I’m currently learning **PROJECT MANAGERMENT.**
 
 <br />
