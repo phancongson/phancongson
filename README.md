@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://zalo.me/phancongson" target="_blank">
-    <img src="https://photos.app.goo.gl/tU2hTPmsm8DhjB3u8"/>
+    <img src="https://1000logos.net/wp-content/uploads/2022/02/Zalo-Logo-2012-500x281.png"/>
   </a>                                                     
   <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
