@@ -18,6 +18,8 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
+  <a href="https://www.zalo.me/phancongson" target="_blank">
+    <img src=https://icons8.com/icon/tPmHPvKVOliP/zalo"/>
   <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
