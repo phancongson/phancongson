@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://zalo.me/phancongson" target="_blank">
-    <img src="https://mitsubishi-taysaigon.com/wp-content/uploads/2020/09/icon-zalo.png"/>
+    <img src="https://photos.app.goo.gl/tU2hTPmsm8DhjB3u8"/>
   </a>                                                     
   <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
