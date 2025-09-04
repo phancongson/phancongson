@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
+<img width="614" height="516" alt="image" src="https://github.com/user-attachments/assets/7919cf87-ea6c-4f4c-9891-e17a31743c20" /><h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
   <h3 align="center">Welcome to my profile!
@@ -35,7 +35,7 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 •	Export/Import Compliance & International Trade
 <br />
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
-![Uploading image.png…]()
+<img width="614" height="516" alt="image" src="https://github.com/user-attachments/assets/567bf24e-d1ae-4a0b-81a0-c0517e5a8acf" />
 
 ## 📫 How to reach me:
 
