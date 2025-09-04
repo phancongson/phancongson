@@ -1,4 +1,4 @@
-<img width="614" height="516" alt="image" src="https://github.com/user-attachments/assets/7919cf87-ea6c-4f4c-9891-e17a31743c20" /><h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
+<h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
   <h3 align="center">Welcome to my profile!
