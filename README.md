@@ -1,7 +1,12 @@
-<img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
 <h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">Welcome to my profile!
+
+A dedicated and eager-to-learn Environmental Engineer, I bring a unique blend of technical expertise and business acumen. My core engineering training from Hanoi University of Science and Technology (HUST) is powerfully complemented by a degree in Business Administration from the Foreign Trade University (FTU).
+
+This dual competency allows me to approach environmental and EHS (Environment, Health, and Safety) challenges not just from a technical standpoint, but also through a strategic, cost-effective lens. I am passionate about developing and implementing innovative solutions that simultaneously optimize operational costs, enhance EHS standards, and improve the overall work environment for every employee. I am confident that my proactive mindset and commitment to sustainable practices will bring significant value to your company.
+Thank you for visiting my profile. I am excited about the opportunity to contribute to your team's success.</h3>
 </p>
 
 
@@ -30,6 +35,8 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 •	Export/Import Compliance & International Trade
 <br />
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
+![Uploading image.png…]()
+
 ## 📫 How to reach me:
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
