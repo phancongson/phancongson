@@ -9,7 +9,7 @@
 - ✍ I studied in: [Foreign Trade University](https://ftu.edu.vn/) (FTU).
 - ✍ I studied in: [Vietnam Summer School in Research - Alumni of Harvard, MIT organized](https://www.facebook.com/vssr.vn/) (VSSR).
 - ✍ Skill in: Familiar with ISO 14001, ISO 9001, ISO 50001, six sigma, 5S, PDCA, EIA, Pro3M, Waste managerment, Wastewater, member Audit Vendor of Samsung, RoHS, REACH, CA Prop 65, EPEAT, IEC:62321, working with Global Team
-- ✍ I am working in: [APTOMISE SINGAPORE](https://aptoscreations.com/) (APTOMISE - 114 Lavender Street, CT Hub2 09-86, Singapore 338729).
+- ✍ I am working in: [ENOW TOKYO ENGLISH](https://enow.tokyo/) (ENOW TOKYO - Japan, Toi, Kawasaki, Takatsu Ward).
 - 🌱 I’m currently learning **PROJECT MANAGERMENT.**
 <br />
 <h3 align="center">Desired Occupation </h3>
@@ -29,7 +29,7 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 •	Stakeholder & Government Relations
 •	Export/Import Compliance & International Trade
 <br />
-
+<img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
 ## 📫 How to reach me:
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
