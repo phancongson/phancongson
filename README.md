@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
+<img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
 <h1 align="center">Hi 👋, I'm PHAN CONG SON</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
@@ -11,6 +11,23 @@
 - ✍ Skill in: Familiar with ISO 14001, ISO 9001, ISO 50001, six sigma, 5S, PDCA, EIA, Pro3M, Waste managerment, Wastewater, member Audit Vendor of Samsung, RoHS, REACH, CA Prop 65, EPEAT, IEC:62321, working with Global Team
 - ✍ I am working in: [APTOMISE SINGAPORE](https://aptoscreations.com/) (APTOMISE - 114 Lavender Street, CT Hub2 09-86, Singapore 338729).
 - 🌱 I’m currently learning **PROJECT MANAGERMENT.**
+<br />
+<h3 align="center">Desired Occupation </h3>
+</p>
+With a degree in Environmental Engineering (Hanoi University of Science and Technology) and a background in Economics (Foreign Trade University), my goal is to create meaningful impact by enhancing workplace safety, health, and environmental sustainability. I founded and manage an EHS professional network of nearly 1,000 members from factories across Vietnam, where I both learn from and support peers in solving real-world challenges—from regulatory compliance to safety management , health management, WWT management, hazardous waste management. 
+Beyond technical expertise, my economic understanding helps me appreciate the financial pressures faced by business owners. I believe that by aligning EHS best practices with cost-effective solutions, teams can drive productivity while reducing risks. My mission is to bridge the gap between employee well-being and business sustainability, ensuring a safer, healthier, and more efficient workplace for all.
+<br />
+<h3 align="center">Core Competencies </h3>
+</p>
+•	Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
+•	Directly participate in EIA, ISO 9001, FDA procedures to export products abroad. Serve as a corporate group inspector for subsidiaries
+•	Strategic Operations Leadership
+•	EHS & Regulatory Compliance (EIA, ISO 14001, OHSAS 18001, Six Sigma)
+•	Business Development & Market Expansion
+•	Cross-functional Team Management (100+ employees)
+•	Cost Optimization & Process Improvement
+•	Stakeholder & Government Relations
+•	Export/Import Compliance & International Trade
 <br />
 
 ## 📫 How to reach me:
