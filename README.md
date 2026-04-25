@@ -3,13 +3,6 @@
   <h3 align="center">An Engineer from Vietnam 🇻🇳 </h3>
   <h3 align="center">Welcome to my profile!
 
-A dedicated and eager-to-learn Environmental Engineer, I bring a unique blend of technical expertise and business acumen. My core engineering training from Hanoi University of Science and Technology (HUST) is powerfully complemented by a degree in Business Administration from the Foreign Trade University (FTU).
-
-This dual competency allows me to approach environmental and EHS (Environment, Health, and Safety) challenges not just from a technical standpoint, but also through a strategic, cost-effective lens. I am passionate about developing and implementing innovative solutions that simultaneously optimize operational costs, enhance EHS standards, and improve the overall work environment for every employee. I am confident that my proactive mindset and commitment to sustainable practices will bring significant value to your company.
-Thank you for visiting my profile. I am excited about the opportunity to contribute to your team's success.</h3>
-</p>
-
-
 - ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
 - ✍ I studied in: [Foreign Trade University](https://ftu.edu.vn/) (FTU).
 - ✍ I studied in: [Vietnam Summer School in Research - Alumni of Harvard, MIT organized](https://www.facebook.com/vssr.vn/) (VSSR).
