@@ -1,4 +1,5 @@
-<h1 align="center">CHÀO BẠN 👋, TỚ LÀ SƠN, QUÊ HÀ TĨNH, RẤT VUI ĐƯỢC GẶP CÁC BẠN</h1>
+<h1 align="center">CHÀO BẠN 👋, TỚ LÀ SƠN, QUÊ HÀ TĨNH, RẤT VUI ĐƯỢC GẶP BẠN</h1>
+<h1 align="center">HELLO 👋, I'M SON, FROM HA TINH. NICE TO MEET YOU</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam </h3>
   <h3 align="center">The Favorite quote: Happiness is not merely about material wealth, but also about a rich soul, living surrounded by the love of family and friends. SON PHAN </h3>
