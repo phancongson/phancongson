@@ -1,7 +1,7 @@
 <h1 align="center">CHÀO BẠN 👋, TỚ LÀ SƠN, QUÊ HÀ TĨNH, RẤT VUI ĐƯỢC GẶP CÁC BẠN</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam, Love reading books, learning play piano and chinese  🇻🇳 </h3>
-  <h3 align="center">Welcome to Son Phan Engineer's profile!
+  <h3 align=>Welcome to Son Phan Engineer's profile!
 
 - ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
 - ✍ I studied in: [Foreign Trade University](https://ftu.edu.vn/) (FTU).
