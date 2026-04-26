@@ -39,19 +39,19 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-<a href="https://zalo.me/phancongson" target="_blank">
+<a href="https://zalo.me/phancongson" target="_blank"> ZALO
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   </a>                                                     
-  <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank">
+  <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank"> LINKEDIN
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/phancongson" alt="Facebook">
+  <a href="https://www.facebook.com/phancongson" alt="Facebook"> FACEBOOK
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/phancongson" alt="Github">
+  <a href="https://github.com/phancongson" alt="Github"> GITHUB
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:sonpcbk@gmail.com" alt="Email">
+  <a href="mailto:sonpcbk@gmail.com" alt="Email"> EMAIL
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
