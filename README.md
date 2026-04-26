@@ -30,20 +30,7 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 - Stakeholder & Government Relations
 - Export/Import Compliance & International Trade
 <br />
-<h3 align="center">Core Competencies </h3>
-</p>
-- 🌱 Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
 
-- Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
-- Directly participate in EIA, ISO 9001, FDA procedures to export products abroad. Serve as a corporate group inspector for subsidiaries
-•	Strategic Operations Leadership
-•	EHS & Regulatory Compliance (EIA, ISO 14001, OHSAS 18001, Six Sigma)
-•	Business Development & Market Expansion
-•	Cross-functional Team Management (100+ employees)
-•	Cost Optimization & Process Improvement
-•	Stakeholder & Government Relations
-•	Export/Import Compliance & International Trade
-<br />
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/567bf24e-d1ae-4a0b-81a0-c0517e5a8acf" />
 
