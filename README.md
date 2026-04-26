@@ -8,19 +8,34 @@
 - ✍ I studied in: [Vietnam Summer School in Research - Alumni of Harvard, MIT organized](https://www.facebook.com/vssr.vn/) (VSSR).
 - ✍ Skill in: Familiar with ISO 14001, ISO 9001, ISO 50001, six sigma, 5S, PDCA, EIA, Pro3M, Waste managerment, Wastewater, member of Samsung Auditor, RoHS, REACH, CA Prop 65, EPEAT, IEC:62321, working with Global Team
 - ✍ I worked in [SAMSUNG VIETNAM - THE BIGGEST ELECTRIC FACTORY IN THE WORLD with 100,000 staffs - EHS ACTING MANAGER](https://www.samsung.com/)
-- - ✍ I worked in [TOYOTA TBHN VIETNAM - EHS ACTING MANAGER](https://www.toyota-boshoku.com/)
+- ✍ I worked in [TOYOTA TBHN VIETNAM - EHS ACTING MANAGER](https://www.toyota-boshoku.com/)
 - ✍ I am working in: [ENOW TOKYO ENGLISH](https://enow.tokyo/) (ENOW TOKYO - Japan, Toi, Kawasaki, Takatsu Ward).
 - 🌱 I’m currently learning **PROJECT MANAGERMENT, CHINESE AND PLAYING PIANO**
+- 
 <br />
 <h3 align="center">Desired Occupation </h3>
 </p>
 With a degree in Environmental Engineering (Hanoi University of Science and Technology) and a background in Economics (Foreign Trade University), my goal is to create meaningful impact by enhancing workplace safety, health, and environmental sustainability. I founded and manage an EHS professional network of nearly 1,000 members from factories across Vietnam, where I both learn from and support peers in solving real-world challenges—from regulatory compliance to safety management , health management, WWT management, hazardous waste management. 
 Beyond technical expertise, my economic understanding helps me appreciate the financial pressures faced by business owners. I believe that by aligning EHS best practices with cost-effective solutions, teams can drive productivity while reducing risks. My mission is to bridge the gap between employee well-being and business sustainability, ensuring a safer, healthier, and more efficient workplace for all.
 <br />
+ <h3 align=>Core Competencies </h3>
+
+- Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
+- Directly participate in EIA, ISO 9001, FDA procedures to export products abroad. Serve as a corporate group inspector for subsidiaries
+- Strategic Operations Leadership
+- EHS & Regulatory Compliance (EIA, ISO 14001, OHSAS 18001, Six Sigma)
+- Business Development & Market Expansion
+- Cross-functional Team Management (100+ employees)
+- Cost Optimization & Process Improvement
+- Stakeholder & Government Relations
+- Export/Import Compliance & International Trade
+<br />
 <h3 align="center">Core Competencies </h3>
 </p>
-•	Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
-•	Directly participate in EIA, ISO 9001, FDA procedures to export products abroad. Serve as a corporate group inspector for subsidiaries
+- 🌱 Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
+
+- Design and construction of wastewater treatment, clean water, and exhaust gas systems. Including the permits: Environmental permit, fire prevention, chemical safety
+- Directly participate in EIA, ISO 9001, FDA procedures to export products abroad. Serve as a corporate group inspector for subsidiaries
 •	Strategic Operations Leadership
 •	EHS & Regulatory Compliance (EIA, ISO 14001, OHSAS 18001, Six Sigma)
 •	Business Development & Market Expansion
