@@ -1,6 +1,6 @@
 <h1 align="center">CHÀO BẠN 👋, TỚ LÀ SƠN, QUÊ HÀ TĨNH, RẤT VUI ĐƯỢC GẶP CÁC BẠN</h1>
 <p align="center">
-  <h3 align="center">An Engineer from Vietnam, Love reading books, learning play piano and chinese  🇻🇳 </h3>
+  <h3 align="center">An Engineer from Vietnam, the Favorite quote: Happiness is not merely about material wealth, but also about a rich soul, living surrounded by the love of family and friends.</h3>
   <h3 align=>Welcome to Son Phan Engineer's profile!
 
 - ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
