@@ -40,7 +40,7 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 
 <p align="center">
 <a href="https://zalo.me/phancongson" target="_blank"> ZALO
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <img src="https://icons8.com/icon/0m71tmRjlxEe/zalo"/>
   </a>                                                     
   <a href="https://www.linkedin.com/in/sonphan-environment/" target="_blank"> LINKEDIN
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
