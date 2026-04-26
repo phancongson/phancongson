@@ -13,7 +13,6 @@
 - ✍ I worked in [TOYOTA TBHN VIETNAM - EHS ACTING MANAGER](https://www.toyota-boshoku.com/)
 - ✍ I am working in: [ENOW TOKYO ENGLISH](https://enow.tokyo/) (ENOW TOKYO - Japan, Toi, Kawasaki, Takatsu Ward).
 - 🌱 I’m currently learning **PROJECT MANAGERMENT, CHINESE AND PLAYING PIANO**
-- 
 <br />
 <h3 align="center">Desired Occupation </h3>
 </p>
