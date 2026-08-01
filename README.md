@@ -75,22 +75,6 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://scontent.fhan14-3.fna.fbcdn.net/v/t1.6435-9/59069604_2278340205545131_5656680041472327680_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=YZ5E1PUjGkgAX9-3g5B&_nc_ht=scontent.fhan14-3.fna&oh=00_AfBR2dYkcxNjyisxbsoVUXJ_J3hm-IX5nTBGZXNZrIgpbg&oe=63A1A947" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
 # Certificates:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
