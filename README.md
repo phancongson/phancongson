@@ -31,7 +31,8 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 - Stakeholder & Government Relations
 - Export/Import Compliance & International Trade
 <br />
-<img width="1011" height="1308" alt="image" src="<img width="1200" height="1845" alt="1784949086979_1496862837697190195_7940693086813001157_74063e1823cefa3938ed635f89265402" src="https://github.com/user-attachments/assets/3254237a-dd09-40ff-a9a1-9497a8b0fcd3" />
+<img width="1011" height="1308" alt="1784949086979_1496862837697190195_7940693086813001157_74063e1823cefa3938ed635f89265402" src="https://github.com/user-attachments/assets/86e11f45-3967-4232-bf63-43d6dd179cd6" />
+
 " />
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
 <img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/567bf24e-d1ae-4a0b-81a0-c0517e5a8acf" />
