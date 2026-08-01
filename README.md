@@ -2,7 +2,7 @@
 <h1 align="center">HELLO 👋, I'M SON, FROM HA TINH. NICE TO MEET YOU</h1>
 <p align="center">
   <h3 align="center">An Engineer from Vietnam </h3>
-  <h3 align="center">The Favorite quote: Happiness is not merely about material wealth, but also about a rich soul, living surrounded by the love of family and friends. SON PHAN </h3>
+  <h3 align="center">The Favorite quote: Happiness is not merely about material wealth, but also about a rich soul, living surrounded by the love of family and friends - Hạnh phúc không chỉ đơn thuần là sự giàu có về vật chất, mà còn là một tâm hồn phong phú, được sống trong tình yêu thương của gia đình và bạn bè.. SON PHAN </h3>
   <h3 align=>Welcome to Son Phan Engineer's profile!
 
 - ✍ I studied in: [Hanoi University of Science and Technology](https://www.hust.edu.vn/) (HUST).
@@ -32,12 +32,12 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 - Export/Import Compliance & International Trade
 <br />
 <img width="1011" height="1308" alt="1784949086979_1496862837697190195_7940693086813001157_74063e1823cefa3938ed635f89265402" src="https://github.com/user-attachments/assets/86e11f45-3967-4232-bf63-43d6dd179cd6" />
+<img width="1011" height="1308" alt="1784949257947_1496862837697190195_7940693086813001157_6e501fa5efe9a03bf446e2e501e586ac" src="https://github.com/user-attachments/assets/0e6ed62d-02df-4599-8e4c-5c545dd8edcc" />
+<img width="1011" height="1308" alt="1784949087015_1496862837697190195_7940693086813001157_01e8a6dcc5af1227888699751f51c6f3" src="https://github.com/user-attachments/assets/3ff0f249-f819-4c0a-b3d2-594ac1d40b92" />
+<img width="1011" height="1308" alt="1784949087084_1496862837697190195_7940693086813001157_9e2b9ca056c377777ea6a2f99522611f" src="https://github.com/user-attachments/assets/73597aa1-f540-4bdb-85a5-fe6aded6a7fb" />
 
-" />
-<img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/8da474f5-5da2-487f-b33e-a1a085b43e47" /><img align="left" width="400" src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/273937178_4968100503235741_7747263296185788677_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hhCAGkL1UQ0AX8nGcVj&_nc_ht=scontent.fhan14-2.fna&oh=00_AfCC4SEwt1p-1WzeVmmRbfb4tjkHuSPJ3C46GWXniVmKqw&oe=637FA9A9">
-<img width="1011" height="1308" alt="image" src="https://github.com/user-attachments/assets/567bf24e-d1ae-4a0b-81a0-c0517e5a8acf" />
 
-## 📫 How to reach me ~ Liên lạc với Sơn ở đây nhớ:
+## 📫 How to reach Son ~ Liên lạc với Sơn ở đây nhớ:
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
