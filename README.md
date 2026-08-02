@@ -31,11 +31,10 @@ Beyond technical expertise, my economic understanding helps me appreciate the fi
 - Stakeholder & Government Relations
 - Export/Import Compliance & International Trade
 <br />
-<img width="1011" height="1308" alt="1784949086979_1496862837697190195_7940693086813001157_74063e1823cefa3938ed635f89265402" src="https://github.com/user-attachments/assets/86e11f45-3967-4232-bf63-43d6dd179cd6" />
-<img width="1011" height="1308" alt="1784949257947_1496862837697190195_7940693086813001157_6e501fa5efe9a03bf446e2e501e586ac" src="https://github.com/user-attachments/assets/0e6ed62d-02df-4599-8e4c-5c545dd8edcc" />
-<img width="1011" height="1308" alt="1784949087015_1496862837697190195_7940693086813001157_01e8a6dcc5af1227888699751f51c6f3" src="https://github.com/user-attachments/assets/3ff0f249-f819-4c0a-b3d2-594ac1d40b92" />
-<img width="1011" height="1308" alt="1784949087084_1496862837697190195_7940693086813001157_9e2b9ca056c377777ea6a2f99522611f" src="https://github.com/user-attachments/assets/73597aa1-f540-4bdb-85a5-fe6aded6a7fb" />
-
+<img width="1011" height="1308" alt="001" src="https://github.com/user-attachments/assets/99d04cbc-9d60-466f-aa00-3ba6e60a5760" />
+<img width="1011" height="1318" alt="1784949087015_1496862837697190195_7940693086813001157_01e8a6dcc5af1227888699751f51c6f3" src="https://github.com/user-attachments/assets/a62f0aaf-719e-437b-95ea-a77cd5bc01c8" />
+<img width="1011" height="674" alt="1784949087084_1496862837697190195_7940693086813001157_9e2b9ca056c377777ea6a2f99522611f" src="https://github.com/user-attachments/assets/92680540-0faf-457e-b7d8-d323ea38aeb4" />
+<img width="1011" height="674" alt="1784949257947_1496862837697190195_7940693086813001157_6e501fa5efe9a03bf446e2e501e586ac" src="https://github.com/user-attachments/assets/d891c4ea-4746-46b0-91cb-ec55e9ee8b81" />
 
 ## 📫 How to reach Son ~ Liên lạc với Sơn ở đây nhớ:
 
